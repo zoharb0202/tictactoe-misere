@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>TicTacToeMisere.GameLogic</RootNamespace>
+    <AssemblyName>TicTacToeMisere.GameLogic</AssemblyName>
+  </PropertyGroup>
+
+</Project>
